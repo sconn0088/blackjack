@@ -1,4 +1,4 @@
-import random, re, math
+import random, re
 
 deck = {
     "2 of Spades": 2,
